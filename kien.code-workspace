@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "../kien"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"iostream": "cpp",
+			"ostream": "cpp"
+		},
+		"liveServer.settings.multiRootWorkspaceName": "TIMTANGCAROT"
+	}
+}
